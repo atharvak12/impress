@@ -13,7 +13,7 @@ var love = setInterval(function(){
   
   var i = 0;
   var txt1 = "Hi SonaKumaari.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!                                                                           > When I saw you for the first time < You seems something Special to me in that white suit  <<                  As the days goes < you get closer to me....! <<                           I don't know the reason why your thoughts always resonates inside my mind...!                                                     > Everything about you is always intresting and irritating  for me...!                     << I am somewhat nervous Because I haven't said these words to anyone and I won't say to anyone in future...(except one girl our daughter)                                                     > I Love my Parents so much than anything else in this world....!                    << Now You are the only person  whom I love equally with my parents....!                                                             >I Love U <SweetHeart, kaddu,Gulab,sonakumari,pilot,gujratan,etccccccccccccccc.....! |                  <<<< Give me One chance to Prove my Love ...!";
-  var speed = 500;
+  var speed = 100;
   typeWriter();
   function typeWriter() {
     if (i < txt1.length) {        
